@@ -5,7 +5,7 @@ Nesta atividade iremos implementar os testes nas Camadas Model, Repository e Con
 
 ## Boas Práticas
 
-1. <a href="#prj">Implemmete as Classes das 3 Camadas do Projeto Agenda
+1. <a href="#prj">Implemente as Classes das 3 Camadas do Projeto Agenda
 2. <a href="#dep">Configure as Dependências no arquivo pom.xml</a>
 3. <a href="#dtb">Configure o Banco de Dados de testes</a>
 4. <a href="#pac">Prepare a estrutura de packages para testes</a>
